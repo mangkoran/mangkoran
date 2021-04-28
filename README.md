@@ -1,4 +1,6 @@
-<img src="./assets/60104382_p0-v2-v2.png" alt="mangkoran Banner" />
+<div align="center">
+    <img src="./assets/60104382_p0-github-preview.png" alt="mangkoran Banner" />
+</div>
 
 <h2 align="center">HEWWO! My name's mangkoran!</h2>
 <p align="center">Welcome! You've just landed on my GitHub profile!</p>

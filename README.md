@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="">
+    <a href="https://github.com/mangkoran/mangkoran">
         <img src="./assets/60104382_p0-github-preview.png" alt="mangkoran Banner" />
     </a>
 </div>
@@ -15,7 +15,7 @@
 - Ask me about: C++, Linux
 
 <p align="center">
-    <a href="">
+    <a href="https://github.com/mangkoran/mangkoran">
         <img src="https://github-readme-stats.vercel.app/api?username=mangkoran&show_icons=true&theme=gruvbox" alt="mangkoran's GitHub stats" />
     </a>
 </p>

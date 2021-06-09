@@ -1,5 +1,7 @@
 <div align="center">
-    <img src="./assets/60104382_p0-github-preview.png" alt="mangkoran Banner" />
+    <a href="">
+        <img src="./assets/60104382_p0-github-preview.png" alt="mangkoran Banner" />
+    </a>
 </div>
 
 <h2 align="center">HEWWO! My name's mangkoran!</h2>
@@ -13,6 +15,8 @@
 - Ask me about: C++, Linux
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mangkoran&show_icons=true&theme=gruvbox" alt="mangkoran's GitHub stats" />
+    <a href="">
+        <img src="https://github-readme-stats.vercel.app/api?username=mangkoran&show_icons=true&theme=gruvbox" alt="mangkoran's GitHub stats" />
+    </a>
 </p>
 <!-- ![mangkoran's GitHub stats](https://github-readme-stats.vercel.app/api?username=mangkoran&show_icons=true&theme=gruvbox)] -->

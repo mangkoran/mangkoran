@@ -4,15 +4,15 @@
     </a>
 </div>
 
-<h2 align="center">HEWWO! My name's mangkoran!</h2>
+<h2 align="center">Hello! My name's mangkoran!</h2>
 <p align="center">Welcome! You've just landed on my GitHub profile!</p>
 <p align="center">
     <a href="https://twitter.com/mangkoran">Twitter</a> -
     <a href="https://discordapp.com/users/391547930550599680">Discord</a>
 </p>
 
-- Currently learning: HTML/CSS/JS, Java
-- Ask me about: C++, Linux
+- Currently learning: Golang, Python
+- Ask me about: C/C++, Emacs, Linux, Docker
 
 <p align="center">
     <a href="https://github.com/mangkoran/mangkoran">

@@ -12,7 +12,7 @@
 </p>
 
 - Interested in: Cloud computing, Kubernetes, home server
-- In my free time, I'd like to: fiddling with Linux, read visual novels
+- In my free time, I'd like to: build keyboards, collect iems, read visual novels
 - Working setup:
   - Windows 11
   - WSL2

@@ -1,35 +1,20 @@
-<!-- <div align="center"> -->
-<!--     <a href="https://github.com/mangkoran/mangkoran"> -->
-<!--         <img src="./assets/60104382_p0-github-preview.png" alt="mangkoran Banner" /> -->
-<!--     </a> -->
-<!-- </div> -->
+# Hello there 🍵
 
-<h2 align="center">Hello there 👋</h2>
-<p align="center">Welcome to my profile!</p>
-<p align="center">
-  <a href="https://twitter.com/mangkoran">Twitter</a> -
-  <a href="https://discordapp.com/users/391547930550599680">Discord</a>
-</p>
+Still building up my contribution. Mostly
+[issues](https://github.com/search?q=author:mangkoran+is:public+&type=issues&s=created&o=desc),
+but sometimes [PRs](https://github.com/search?q=author:mangkoran+is:public+&type=pullrequests&s=created&o=desc) too.
 
-- Interested in:
-  - Cloud computing (Kubernetes and its [ecosystem](https://landscape.cncf.io/))
-  - Continuous integration and deployment pipeline
-  - System networking
-- In my free time, I'd like to:
-  - Build keyboards (ergo and ortho)
-  - Play Warthunder, rhythm games (osu!), and fighting games (GGST)
-  - Watch esports (League, literally any)
-  - Listen to music (electronic, progressive metal, metalcore)
-  - Read light novels and visual novels
-  - Throw yo-yos
-- Setup:
-  - Windows 10 IoT Enterprise LTSC 21H2
-  - Arch Linux on WSL2
-  - Emacs 28.1 (+pgtk +nativecomp) with [Doom Emacs](https://github.com/doomemacs/doomemacs)
-  - Neovim with [LazyVim](https://github.com/LazyVim/LazyVim)
+Don't forget to visit [the blog](https://blog.mangkoran.com/) too!
 
-<p align="center">
-  <a href="https://github.com/mangkoran/mangkoran">
-    <img src="https://github-readme-stats.vercel.app/api?username=mangkoran&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="mangkoran's GitHub stats" />
-  </a>
-</p>
+![mangkoran's Stats](https://github-readme-stats.vercel.app/api?username=mangkoran&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=false)
+
+<!-- <p align="center"> -->
+<!--   <img -->
+<!--     src="https://github-readme-stats.vercel.app/api?username=mangkoran&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=false" -->
+<!--     alt="mangkoran's GitHub stats" -->
+<!--   /> -->
+<!--   <img -->
+<!--     src="https://github-readme-streak-stats.herokuapp.com/?user=mangkoran&theme=catppuccin-mocha&hide_border=true" -->
+<!--     alt="mangkoran's GitHub streak" -->
+<!--   /> -->
+<!-- </p> -->
